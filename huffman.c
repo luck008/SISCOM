@@ -28,6 +28,7 @@ int main(void)
         node[i].child1=999;
     }
     
+
     
     int node_control=8;
     int priority_vector[8];
